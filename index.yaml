@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  repo-demo:
+  - apiVersion: v2
+    created: "2021-08-11T10:23:47.223058+02:00"
+    dependencies:
+    - name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.4.2
+    digest: 63e52610c385f447cdf9f0fa0b3a61be6f364fe245c4a63186c8c1940a6e07de
+    name: repo-demo
+    urls:
+    - repo-demo-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-08-11T10:23:47.218805+02:00"
